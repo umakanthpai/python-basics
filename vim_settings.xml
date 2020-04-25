@@ -20,29 +20,39 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/MyDataInDrive/GitRepos/GitHub/python-basics/first.py" timestamp="1587840889354">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="D:/MyDataInDrive/GitRepos/GitHub/python-basics/first.py" timestamp="1587853031507">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="2" column="1" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="1" />
       </file>
       <file name="/Dummy.txt" timestamp="1587840800708">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/first" timestamp="1587848558837">
+      <file name="/first" timestamp="1587853077050">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="15" />
+      </file>
+      <file name="/Python Console" timestamp="1587852778402">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps />
   </component>
   <component name="VimRegisterSettings">
     <registers>
+      <register name="0" type="2">
+        <text>print(y)</text>
+      </register>
       <register name="1" type="2">
-        <text>5//2</text>
+        <text encoding="base64">eT1pbnB1dCgpCg==</text>
       </register>
       <register name="&quot;" type="2">
+        <text>print(y)</text>
+      </register>
+      <register name="2" type="2">
         <text>5//2</text>
       </register>
     </registers>
