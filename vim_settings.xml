@@ -12,6 +12,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed L</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -25,8 +28,11 @@
       <file name="/Dummy.txt" timestamp="1587840800708">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/first" timestamp="1587840903079">
+      <file name="/first" timestamp="1587848558837">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="15" />
       </file>
     </filemarks>
     <jumps />
