@@ -13,17 +13,29 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/MyDataInDrive/GitRepos/GitHub/python-basics/first.py" timestamp="1587838467839">
+      <file name="D:/MyDataInDrive/GitRepos/GitHub/python-basics/first.py" timestamp="1587840889354">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1587840800708">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/first" timestamp="1587840903079">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps />
   </component>
   <component name="VimRegisterSettings">
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text>5//2</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text>5//2</text>
+      </register>
+    </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
