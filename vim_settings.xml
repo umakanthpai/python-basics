@@ -20,11 +20,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/MyDataInDrive/GitRepos/GitHub/python-basics/first.py" timestamp="1587853031507">
-        <mark key="[" line="1" column="2" />
-        <mark key="]" line="2" column="1" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="1" />
+      <file name="D:/MyDataInDrive/GitRepos/GitHub/python-basics/first.py" timestamp="1587853307500">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1587840800708">
         <mark key="[" line="0" column="0" />
@@ -47,12 +46,15 @@
         <text>print(y)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">eT1pbnB1dCgpCg==</text>
+        <text encoding="base64">cHJpbnQoJ1VtYWthbnRoJykKeD1pbnQoaW5wdXQoIkVudGVyIHgiKSkKeT1pbnQoaW5wdXQoIkVudGVyIHkiKSkKcHJpbnQoeCkKcHJpbnQoeSkKcHJpbnQoeCt5KQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text>print(y)</text>
+        <text encoding="base64">cHJpbnQoJ1VtYWthbnRoJykKeD1pbnQoaW5wdXQoIkVudGVyIHgiKSkKeT1pbnQoaW5wdXQoIkVudGVyIHkiKSkKcHJpbnQoeCkKcHJpbnQoeSkKcHJpbnQoeCt5KQo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">eT1pbnB1dCgpCg==</text>
+      </register>
+      <register name="3" type="2">
         <text>5//2</text>
       </register>
     </registers>
